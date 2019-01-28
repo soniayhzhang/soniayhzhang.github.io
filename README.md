@@ -1,7 +1,7 @@
 # soniayhzhang.github.io
 This is a portfolio website for my course Design in Safaris.
 
-Reading Response
+Reading Response (Draft only used for testing layout - please do not read)
 
 De Waal formulates human understanding of animals into two extremities, one assuming a clear-cut distinction between humans and animals (anthropodenial), and one believing in a continuum (anthropomorphism). While the former makes interspecies comprehension an impossible inquiry, the later is commonly accused of generating false understandings. As interaction designers for animals, I believe we have to find a space in between, and in de Waal’s words, to think about ways in which we can recognise the differences between humans and animals while still maintain our bonds with them.  
 
