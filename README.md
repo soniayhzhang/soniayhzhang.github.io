@@ -5,7 +5,7 @@
 2018.01.28
 Week 2: Animal Behaviour and Ethology
 
-# Reading Response to De Waal 1999: Anthropomorphism and Anthropodenial: Consistency in Our Thinking about Humans and Other Animals
+# Reading Response - Anthropomorphism and Anthropodenial: Consistency in Our Thinking about Humans and Other Animals (de Waal 1999)
 
 
 De Waal puts our desire for understanding animals into two extremities, anthropodenial and anthropomorphism. While the former makes interspecies comprehension an impossible inquiry, the later is commonly accused of generating false understandings. As interaction designers for animals, it is crucial to seek a space in between and to think about how we can recognise the differences between humans and animals while still maintain our bonds with them.  
@@ -23,3 +23,9 @@ For a moment let’s turn away from hard science and attend to how the literatur
 Such commitment to understanding the animal from their own point of view translates into a masterpiece of naturalistic wonder. To me, this goes beyond empathy, but exemplifies an attempt to deeply connect with the entirety of another worldview. While in literature, the mode of understanding translates into the aesthetics of written language, how about interaction design? What are we trying to achieve and express through our products? Can we turn our ethograms into a language, and thus combine the rigour of behavioural science and the unique textures of other forms of observation?
 
 This returns to the central question of my response: what does it mean to do interaction design when we are faced with interspecies difference and communication barrier? I do not expect to generate an answer from this thinking exercise, but there is certainly value in being extremely reflexive of the differences we perceive between us and them. We need to be aware of our judgements on differences, recognise the assumptions we make in the process, and think about how to work with these assumptions. I believe this is the only way to make interaction possible. 
+
+Reference:
+
+Baker, J.A. 1967. The Peregrine. New York Review Books.
+de Waal, F.B.M. 1999. Anthropomorphism and Anthropodenial: Consistency in Our Thinking about Humans and Other Animals. Philosophical Topics, Vol. 27, No. 1, Zoological Philosophy (SPRING 1999), pp. 255- 280
+
