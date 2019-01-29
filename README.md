@@ -1,14 +1,12 @@
-# Design for Safaries - Sonia's Portfolio
 
-I am an anthropology student trying to make sense of interaction design for animals. Still working on how to make this look less like a plain word document.
 
 
 
 2018.01.28
 Week 2: Animal Behaviour and Ethology
 
-Reading Response
-De Waal 1999: Anthropomorphism and Anthropodenial: Consistency in Our Thinking about Humans and Other Animals
+# Reading Response
+# De Waal 1999: Anthropomorphism and Anthropodenial: Consistency in Our Thinking about Humans and Other Animals
 
 
 De Waal puts our desire for understanding animals into two extremities, anthropodenial and anthropomorphism. While the former makes interspecies comprehension an impossible inquiry, the later is commonly accused of generating false understandings. As interaction designers for animals, it is crucial to seek a space in between and to think about how we can recognise the differences between humans and animals while still maintain our bonds with them.  
