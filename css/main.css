@@ -1,9 +1,10 @@
 }
 nav ul, footer ul {
-    font-family:'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
+    font-size: 50px;
+  font-weight: bold;
+  line-height: 200px;
+  letter-spacing: 5px;
+  font-family: 'fantasy';
 }
 nav ul li, footer ul li {
     display: inline;
@@ -18,7 +19,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Sans-Serif';
+    font-family:'fantasy';
 }
 p {
     font-size: 1.5em;
