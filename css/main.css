@@ -1,4 +1,6 @@
-@import <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+<style>
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+</style>
     
 body {
     margin: 60px auto;
