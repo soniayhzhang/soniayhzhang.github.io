@@ -8,5 +8,8 @@ This is my portfolio website for the course "Design in Safaries". And my first w
 I am an anthropology student trying to figure out interaction design, technology, boundaries between humans and non-humans... 
 I also want to learn as much as I can on how to make a website, a project, a thing, anything.
 
-[**Take a look at my projects.**](blog.md)
+**Here are the links to my projects.**
+[Week 2 - Reading Response to "Anthropomorphism and Anthropodenial"]()
+[Week 3 - My First Experience with Ethograms]
+[Week 4 - Empathy Machine]
 
