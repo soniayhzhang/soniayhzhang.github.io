@@ -12,7 +12,7 @@ I also want to learn as much as I can on how to make a website, a project, a thi
 
 [Week 2 - Reading Response to "Anthropomorphism and Anthropodenial"](/2019-01-28-week-2.md)
 
-[Week 3 - My First Experience with Ethograms]()
+[Week 3 - My First Experience with Ethograms](/2019-02-03-week-3.md)
 
 [Week 4 - Empathy Machine]()
 
