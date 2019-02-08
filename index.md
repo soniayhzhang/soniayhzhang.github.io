@@ -14,5 +14,5 @@ I also want to learn as much as I can on how to make a website, a project, a thi
 
 [Week 3 - My First Experience with Ethograms](/2019-02-03-week-3.md)
 
-[Week 4 - Empathy Machine]()
+[Week 4 - Empathy Machine](/2019-02-11-week-4.md)
 
