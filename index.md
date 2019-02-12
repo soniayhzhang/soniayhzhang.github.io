@@ -2,7 +2,7 @@
 layout: default
 title: Design in Safaries
 ---
-### Happy Chinese New Year everyone!
+### Welcome. Make yourself at home.
 
 This is my portfolio website for the course "Design in Safaries". And my first website ever! 
 I am an anthropology student trying to figure out interaction design, technology, boundaries between humans and non-humans... 
@@ -14,5 +14,5 @@ I also want to learn as much as I can on how to make a website, a project, a thi
 
 [Week 3 - My First Experience with Ethograms](/2019-02-03-week-3.md)
 
-[Week 4 - Empathy Machine](/2019-02-11-week-4.md)
+[Week 4 - The Clumsiest Empathy Machine](/2019-02-11-week-4.md)
 
