@@ -16,3 +16,5 @@ I also want to learn as much as I can on how to make a website, a project, a thi
 
 [Week 4 - The Clumsiest Empathy Machine](/2019-02-11-week-4.md)
 
+[Week 5 - A Very Cursory Sketch of Animal Enrichment Proposal](2019-02-18-week-5.md)
+
