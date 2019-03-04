@@ -20,3 +20,5 @@ I also want to learn as much as I can on how to make a website, a project, a thi
 
 [Week 6 - Enrichment? Conversation? A Bird Hotel Prototype](/2019-02-25-week-6.md)
 
+[Week 7 - Zoo Visit and second ethogram](/2019-03-05-week-7.md)
+
