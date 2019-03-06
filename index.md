@@ -22,3 +22,5 @@ I also want to learn as much as I can on how to make a website, a project, a thi
 
 [Week 7 - Zoo Visit and second ethogram](/2019-03-05-week-7.md)
 
+[Week 7 - Observing interactions at a cat cafe!](/2019-03-03-week-7.md)
+
