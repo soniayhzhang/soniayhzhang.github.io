@@ -28,3 +28,5 @@ I also want to learn as much as I can on how to make a website, a project, a thi
 
 [Week 9 - A {MYSTERIOUS} Functioning Prototype](/2019-03-13-week-9.md)
 
+[Week 10 - Midterm???] (/2019-03-26-week-10.md)
+
