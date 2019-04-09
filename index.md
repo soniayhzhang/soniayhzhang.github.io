@@ -30,3 +30,5 @@ I also want to learn as much as I can on how to make a website, a project, a thi
 
 [Week 10 - Midterm Prototype and Field-Testing](/2019-03-26-week-10.md)
 
+[Week 12 - Final Proposals](2019-04-09-week-12.md)
+
