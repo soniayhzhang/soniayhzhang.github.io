@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Design in Safaries
+title: Design in Safaris
 ---
 ### Welcome. Make yourself at home.
 
-This is my portfolio website for the course "Design in Safaries". And my first website ever! 
+This is my portfolio website for the course "Design in Safaris". And my first website ever! 
 I am an anthropology student trying to figure out interaction design, technology, boundaries between humans and non-humans... 
 I also want to learn as much as I can on how to make a website, a project, a thing, anything.
 
@@ -28,5 +28,5 @@ I also want to learn as much as I can on how to make a website, a project, a thi
 
 [Week 9 - A {MYSTERIOUS} Functioning Prototype](/2019-03-13-week-9.md)
 
-[Week 10 - Midterm???](/2019-03-26-week-10.md)
+[Week 10 - Midterm Prototype and Field-Testing](/2019-03-26-week-10.md)
 
