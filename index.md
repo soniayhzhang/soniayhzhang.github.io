@@ -32,3 +32,5 @@ I also want to learn as much as I can on how to make a website, a project, a thi
 
 [Week 12 - Final Proposals](2019-04-09-week-12.md)
 
+[week 13 - Iteration I - Gone With the Wind](2019-04-16-week-13.md)
+
