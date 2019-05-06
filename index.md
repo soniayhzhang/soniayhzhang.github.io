@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Design in Safaris
+title: Interaction Design in the Wild
 ---
 ### Welcome. Make yourself at home.
 
-This is my portfolio website for the course "Design in Safaris". And my first website ever! 
+This is my portfolio website for the course "Interaction Design in the Wild". And my first website ever! 
 I am an anthropology student trying to figure out interaction design, technology, boundaries between humans and non-humans... 
 I also want to learn as much as I can on how to make a website, a project, a thing, anything.
 
@@ -16,7 +16,7 @@ I also want to learn as much as I can on how to make a website, a project, a thi
 
 [Week 4 - The Clumsiest Empathy Machine](/2019-02-11-week-4.md)
 
-[Week 5 - A Very Cursory Sketch of an Animal Enrichment Proposal](/2019-02-18-week-5.md)
+[Week 5 - A Sketch of an Animal Enrichment Proposal](/2019-02-18-week-5.md)
 
 [Week 6 - Enrichment? Conversation? A Bird Hotel Prototype](/2019-02-25-week-6.md)
 
@@ -26,7 +26,7 @@ I also want to learn as much as I can on how to make a website, a project, a thi
 
 [Week 8 - Playing with crows for mid-term](/2019-03-07-week-8.md)
 
-[Week 9 - A {MYSTERIOUS} Functioning Prototype](/2019-03-13-week-9.md)
+[Week 9 - Midterm: A {MYSTERIOUS} Functioning Prototype](/2019-03-13-week-9.md)
 
 [Week 10 - Midterm Prototype and Field-Testing](/2019-03-26-week-10.md)
 
