@@ -34,3 +34,6 @@ I also want to learn as much as I can on how to make a website, a project, a thi
 
 [week 13 - Iteration I - Gone With the Wind](2019-04-16-week-13.md)
 
+[final week - curiosity box updated](2019-05-17-week-15.md)
+
+
